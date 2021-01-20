@@ -1,0 +1,14 @@
+h1{
+    color: Orange;
+}
+
+.header{
+    background-color: Blue;
+    display: flex;
+}
+
+.contentText{
+    text-align: center;
+    border: solid;
+    border-width: 4px;
+}
